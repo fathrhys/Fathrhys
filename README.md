@@ -1,5 +1,5 @@
 <h1 align="center">
-  <!-- TAUTAN TYPING SVG DIPERBAIKI -->
+  <!-- KESALAHAN KETIK PADA URL INI SUDAH DIPERBAIKI -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=700&size=35&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ahmad+Fadhil;A+Passionate+Cloud+Developer;From+Indonesia" alt="Typing SVG" /></a>
 </h1>
 
@@ -82,5 +82,5 @@
 
 ---
 
-<!-- TAUTAN FOOTER DIPERBAIKI DENGAN YANG BARU -->
+<!-- KESALAHAN KETIK PADA URL INI JUGA SUDAH DIPERBAIKI -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150§ion=footer&text=Thanks%20for%20visiting!&fontSize=30" />
