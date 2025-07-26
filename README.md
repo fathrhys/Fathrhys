@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00BFFF¢er=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ahmad+Fadhil;A+Passionate+Cloud+Developer;From+Indonesia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ahmad+Fadhil;A+Passionate+Cloud+Developer;From+Indonesia" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -19,7 +19,8 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lsc2Q2dWFqZWUybnI5dW1rY3h0NnV6cml2c3p4eDBzbnhlaHF1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6i4a5w/giphy.gif" width="600" height="300"/>
+  <!-- GIF yang sudah diperbaiki -->
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
