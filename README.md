@@ -1,5 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ahmad+Fadhil;A+Passionate+Cloud+Developer;From+Indonesia" alt="Typing SVG" /></a>
+  <!-- TAUTAN TYPING SVG DIPERBAIKI -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=700&size=35&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ahmad+Fadhil;A+Passionate+Cloud+Developer;From+Indonesia" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -19,7 +20,6 @@
 </p>
 
 <div align="center">
-  <!-- GIF yang sudah diperbaiki -->
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -82,6 +82,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/footer.svg" alt="Footer">
-</p>
+<!-- TAUTAN FOOTER DIPERBAIKI DENGAN YANG BARU -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150§ion=footer&text=Thanks%20for%20visiting!&fontSize=30" />
