@@ -74,7 +74,7 @@ Ini adalah beberapa *tools* dan teknologi yang saya gunakan untuk mewujudkan ide
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathrhys&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
   <br>
-<img src="https://streak-stats.demolab.com/?user=fathrhys&theme=dark" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.vercel.app/?user=fathrhys&theme=dark" alt="GitHub Streak">
 </p>
 
 <!-- Futuristic Divider -->
